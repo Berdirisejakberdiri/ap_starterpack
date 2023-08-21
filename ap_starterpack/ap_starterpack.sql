@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `starterpack` INT NOT NULL DEFAULT '0'
